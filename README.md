@@ -1,75 +1,111 @@
-# Hey, I'm Daniel Emeni 👋
+<div align="center">
 
-Software engineer. Founder. Guy who decided that building on an Android phone
-was a feature, not a bug.
+<pre>
+ ____              _      _
+|  _ \  __ _ _ __ (_) ___| |
+| | | |/ _` | '_ \| |/ _ \ |
+| |_| | (_| | | | | |  __/ |
+|____/ \__,_|_| |_|_|\___|_|
+</pre>
 
-My code that works beautifully and breaks rarely, and occasionally makes
-people go "wait, you built that from your phone?"
+# Daniel Emeni
 
-Founder of **DoreBuild**, a digital solutions studio for businesses that
-actually mean business.
+**Software Engineer · Founder · Building from Port Harcourt, Nigeria**
 
----
+[
 
-## 🔨 What I'm Currently Building: ScholarScan
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Picture this. You're an engineering student at 2am, staring at a circuit
-diagram that looks like it was drawn by someone who hates you personally.
-You take a photo. ScholarScan analyzes it, breaks it down, and explains it
-like a patient professor who actually wants you to pass.
+](https://v0-portfolio-website-beryl-rho.vercel.app)
+[
 
-That's the idea. An AI-native utility that scans mathematical formulas,
-circuit diagrams, and technical problems, and turns them into
-digestible breakdowns using multi-modal AI.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-**Built with:**
-Next.js 16 (App Router + Turbopack) · TypeScript · Supabase SSR Auth
-· PostgreSQL · Row Level Security
+](https://www.linkedin.com/in/daniel-emeni)
+[
 
-**Where things stand:**
-- ✅ Mobile-first image intake — optimized for real phones, not lab conditions
-- ✅ Server-side auth with async Next.js cookie handling that doesn't crash on routing
-- ✅ API gateway with direct JWT verification — because mobile cookies are unreliable and I learned that the hard way
-- ✅ Row Level Security on the database — your scans are yours, full stop
-- 🟨 Data deletion controls and identity hardening — in progress
-- 🟥 Contextual chat memory and LaTeX pipeline — coming soon
+![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)
 
----
+](https://x.com/DoreBuild)
+[
 
-## 🛠️ The Toolkit
+![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
-I build full-stack web applications, AI-powered tools, and client-facing
-digital products. Clean interfaces, solid backends, no shortcuts.
+](mailto:danielemeni07@gmail.com)
 
-**Core Stack:**
-Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
-· Framer Motion · shadcn/ui
-
-**Fun fact:** I do all of this on an Oppo A15s via GitHub Codespaces.
-Not because I have to. Because it keeps the skills sharp and the excuses thin.
+</div>
 
 ---
 
-## 🚀 Projects
+I build full-stack web applications and AI-powered tools — clean interfaces, solid backends, no shortcuts.
 
-| Project | Description | Stack |
-|---|---|---|
-| [ScholarScan](https://github.com/daniel-emeni-dev) | AI-native formula and circuit analyzer for engineering students | Next.js 16, Supabase, PostgreSQL |
-| [DoreBuild Portfolio](https://v0-portfolio-website-beryl-rho.vercel.app) | The mothership. Everything about what I do and how I do it | Next.js, Tailwind, Framer Motion |
-| [KJ Cakes PH](https://v0-kj-cakes-ph-website.vercel.app) | Luxury cake brand website — Port Harcourt | Next.js, Tailwind CSS |
-| [Beleza Natural](https://v0-beleza-natural-website.vercel.app) | What a Nigerian hair clinic looks like in 2030 | Next.js, Tailwind CSS |
+Currently an Electronics and Computer Engineering student at the University of Port Harcourt, doing the actual work of a software engineer alongside it. Founder of **DoreBuild**, a digital solutions studio helping Nigerian small businesses get a real web presence.
+
+Everything in this GitHub was built on an Oppo A15s via GitHub Codespaces. Not as a stunt. Just how it started — and the constraint made me better.
 
 ---
 
-## 📬 Find Me
+## What I'm Building Now
 
-- 🌐 [Portfolio](https://v0-portfolio-website-beryl-rho.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-emeni)
-- 🐦 [X / Twitter](https://x.com/DoreBuild)
-- 📧 danielemeni07@gmail.com
+### [Sephil](https://github.com/daniel-emeni-dev/sephil) — Web Storefront for a Nigerian Clothing Retailer
+A full-featured e-commerce storefront built as a pitch prototype for an established offline retailer. Customers browse, cart, verify their email inline, and trigger a pre-formatted WhatsApp order to the shop owner in under 3 minutes. No payment gateway dependency — built around how Nigerian small businesses actually operate.
+
+```
+Next.js 16 · TypeScript · Tailwind CSS v4 · Supabase · PostgreSQL · RLS · Resend · Zustand
+```
+
+`🔄 In active development — Phase 6 of 10`
 
 ---
 
-*Building with intention. Shipping with discipline. Occasionally sleeping.*
+### [ScholarScan](https://github.com/daniel-emeni-dev/scholarscan) — AI Circuit Diagram Analyzer
+An AI-native tool for engineering students. Upload a photo of a circuit diagram or formula at 2am — ScholarScan breaks it down like a patient professor. Built around mobile-first image intake because that's how students actually use their phones in the field.
 
-***Last updated March 31st 2026***
+```
+Next.js 16 · TypeScript · Supabase SSR Auth · PostgreSQL · RLS · Multi-modal AI
+```
+
+`✅ Deployed`
+
+---
+
+## Stack
+
+```
+Frontend        Next.js · React · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
+Backend         Supabase · PostgreSQL · Row Level Security · Edge Functions
+Auth            Supabase SSR · JWT · Cookie-based session management
+Forms           React Hook Form · Zod
+Email           Resend
+Deployment      Vercel
+```
+
+---
+
+## Other Projects
+
+| Project | What It Is |
+|---|---|
+| [DoreBuild Studio](https://v0-portfolio-website-beryl-rho.vercel.app) | The studio portfolio — what I build and who I build it for |
+| [KJ Cakes PH](https://v0-kj-cakes-ph-website.vercel.app) | Luxury cake brand website for a Port Harcourt business |
+| [Beleza Natural](https://v0-beleza-natural-website.vercel.app) | What a Nigerian hair clinic could look like with a real web presence |
+
+---
+
+## DoreBuild
+
+I run **DoreBuild** — a small digital solutions studio targeting Nigerian small businesses that have real customers but no web presence. The name is an acronym from my full name: Daniel Ogheneruno Emeni.
+
+The studio's thesis: a working product you can click through converts an owner faster than any proposal ever will. Every project starts as a pitch prototype — something real, something live, something that sells itself.
+
+---
+
+<div align="center">
+
+*Electronics and Computer Engineering · University of Port Harcourt · Class of 2027*
+
+*Frontend AI Engineering Intern · FlyRank AI · Cohort 01*
+
+**Last updated July 2026**
+
+</div>
