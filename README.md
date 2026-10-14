@@ -59,6 +59,7 @@ and practical full-stack application design.
 ## Connect
 
 - GitHub: https://github.com/daniel-emeni-dev
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/daniel-emeni
 - Portfolio: Add your portfolio URL when available
 - Substack: https://substack.com/@dorebuild
+- X: https://x.com/dorebuild
